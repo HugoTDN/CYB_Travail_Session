@@ -211,3 +211,5 @@ __marimo__/
 
 # Local datasets (keep large CSVs out of git)
 data/MachineLearningCVE/
+*.csv
+data/
