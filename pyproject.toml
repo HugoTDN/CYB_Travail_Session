@@ -14,4 +14,5 @@ dependencies = [
 	"scipy>=1.8",
 	"notebook>=6.0",
 	"ipykernel>=6.0",
+	"xgboost"
 ]
