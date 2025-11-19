@@ -213,3 +213,5 @@ __marimo__/
 data/MachineLearningCVE/
 *.csv
 data/
+*.joblib
+models/
